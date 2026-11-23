@@ -1,0 +1,6 @@
+OrnataLight.exe
+*.log
+*.ini
+bin/
+obj/
+.vs/
